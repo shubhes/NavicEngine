@@ -60,7 +60,7 @@ Researchers and practitioners in the field of engine diagnostics and fault analy
 
 **BibTex:**
 
-[@misc{shubhesN96:online,
+@misc{shubhesN96:online,
 
 author = {},
 
@@ -74,7 +74,7 @@ year = {},
 
 note = {(Accessed on 08/18/2023)}
 
-}]
+}
 
 # License
 
