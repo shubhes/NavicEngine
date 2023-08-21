@@ -36,6 +36,10 @@ The dataset was generated using a structured experimental design at various engi
 
 1. Variation in Injection Duration: The injection duration of a single cylinder was increased or decreased from the nominal ECU value. This simulates injector failure scenarios caused by factors such as injector deposits, eroded injector nozzle holes, or solenoid coil/command signal anomalies.
 
+2. Start of Injection: The injection timing of one of the cylinders was slightly perturbed compared to the ECU-commanded signal.
+
+3. Injection Pressure Fault: The fuel pressure set-point was adjusted from the ECU command.
+
 # Dataset Contents
 
 1. **processed_PUMA.zip:** Zipped folder containing PUMA data.
